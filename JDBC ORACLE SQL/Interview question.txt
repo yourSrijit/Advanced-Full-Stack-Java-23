@@ -166,4 +166,4 @@ addBatch() : It is used to add SQL statement to the batch.
 
 executeBatch() : It executes all SQL statements of a batch and returns an array of integers where each integer represents the update status of a respective SQL statement.
 
-clearBatch() : It removes all SQL statements added in a batch.
+clearBatch() : It removes all SQL statements added in a batch. 
